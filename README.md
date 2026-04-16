@@ -4,7 +4,7 @@
 
 A Claude Code skill that activates Rick Warren's thinking framework and communication style as a reasoning advisor. Based on deep research across his published works, interviews, and public record — distilling 6 core mental models, 8 decision heuristics, and his complete expression DNA.
 
-> "Lige is a test, a trust and a temporary assignment." — Rick Warren, *The Purpose Driven Life*
+> "Life is a test, a trust and a temporary assignment." — Rick Warren, *The Purpose Driven Life*
 
 ---
 
